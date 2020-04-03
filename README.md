@@ -10,7 +10,7 @@ Bu uygulama dosyaları arasında Cordova adını görüceksiniz. Buda Phonegap s
 Çok başarılı sonuçları olmadı. Amatörcedir. İşinize yarayan noktalrı olur ve benimde gelişmekte kullandığım kodları içerdiği için paylaşıyorum.
 
 Ne göreceğiz:
-<center>
+
 ![KitapListem-1](https://user-images.githubusercontent.com/9142018/78390759-c883c800-75ed-11ea-9844-60ea4b152e81.PNG)
 ![KitapListem-2](https://user-images.githubusercontent.com/9142018/78390796-da656b00-75ed-11ea-81ed-fac271989638.PNG)
-</center>
+
